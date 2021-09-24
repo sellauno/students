@@ -1,7 +1,7 @@
 {
   "students": [
-    { "id": 1, "nama": "Dimas", "nilai": 80 },
-    { "id": 2, "nama": "Putri", "nilai": 90 },
-    { "id": 3, "nama": "Indah", "nilai": 88 }
+    { "id": "1", "nama": "Dimas", "nilai": "80" },
+    { "id": "2", "nama": "Putri", "nilai": "90" },
+    { "id": "3", "nama": "Indah", "nilai": "88" }
   ]
 }
