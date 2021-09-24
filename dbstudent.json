@@ -1,0 +1,7 @@
+{
+  "students": [
+    { "id": 1, "nama": "Dimas", "alamat": "Malang" },
+    { "id": 2, "nama": "Putri", "alamat": "Surabaya" },
+    { "id": 3, "nama": "Indah", "alamat": "Jakarta" }
+  ]
+}
